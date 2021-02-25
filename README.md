@@ -1,3 +1,3 @@
-# CalculadoraSimples
+# Calculadora Simples
 
-Uma calculadora feita apenas para exercitar java
+Uma calculadora feita apenas para exercitar Java.
